@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Go To Definition",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Monokai Extended",
+		"Package Control",
+		"SCSS",
+		"Vintageous"
+	]
+}

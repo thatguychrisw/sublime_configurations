@@ -1,0 +1,620 @@
+{
+	"folder_history":
+	[
+		"/Users/developer/PhpstormProjects/yaya-blog",
+		"/Users/developer/PhpstormProjects/time",
+		"/Users/developer/jekyll/jasper"
+	],
+	"last_version": 3126,
+	"last_window_id": 23,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": ":w",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"package re",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"mati",
+						"Material Theme: Activate theme"
+					],
+					[
+						"package ",
+						"Package Control: Remove Package"
+					],
+					[
+						"material them",
+						"Material Theme: Activate theme"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 431.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/developer/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/developer/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/developer/jekyll/jasper/README.md"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 68.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 265.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"colorGroup",
+						"colorGroup1color2"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/views/welcome.scout.php",
+					"settings":
+					{
+						"buffer_size": 2048,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/assets/sass/app.scss",
+					"settings":
+					{
+						"buffer_size": 2542,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/assets/sass/base/_variables.scss",
+					"settings":
+					{
+						"buffer_size": 968,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "package in",
+				"selected_items":
+				[
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"vintageous ",
+						"Vintageous: Toggle Vim Ctrl Keys"
+					],
+					[
+						"packag",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						":q",
+						"Snippet: REQUEST['…']"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"package re",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"mati",
+						"Material Theme: Activate theme"
+					],
+					[
+						"package ",
+						"Package Control: Remove Package"
+					],
+					[
+						"material them",
+						"Material Theme: Activate theme"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/developer/PhpstormProjects/yaya-blog",
+				"/Users/developer/PhpstormProjects/yaya-blog/www",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/assets",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/assets/sass",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/assets/sass/base",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/views",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/views/layouts"
+			],
+			"file_history":
+			[
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/cms/wp-admin/css/press-this-rtl.css",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/bootstrap/start.php",
+				"/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/index.php",
+				"/Users/developer/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/developer/jekyll/jasper/README.md"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/developer/PhpstormProjects/yaya-blog"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/views/welcome.scout.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2048,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										541,
+										541
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": false,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 64
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/assets/sass/app.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2542,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										287,
+										287
+									]
+								],
+								"settings":
+								{
+									"highlight_line": true,
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": false,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 2
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/developer/PhpstormProjects/yaya-blog/www/htdocs/content/themes/blog/resources/assets/sass/base/_variables.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 968,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										181,
+										181
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": false,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 19
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 29.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 68.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1 216 108 1248 747 0 0 1680 1027 ",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"app.s",
+						"www/htdocs/content/themes/blog/resources/assets/sass/app.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"_vintageous_reset_during_init": true,
+				"vintage":
+				{
+					"_cmdline_cd": "/Users/developer/Library/Application Support/Sublime Text 3/Packages"
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 314.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 15,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
